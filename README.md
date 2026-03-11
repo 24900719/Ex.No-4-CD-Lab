@@ -1,4 +1,4 @@
-<img width="593" height="503" alt="image" src="https://github.com/user-attachments/assets/792f8f72-08a1-4dbb-9fad-d9a6f7ad53b5" /><img width="593" height="503" alt="image" src="https://github.com/user-attachments/assets/730f79cc-958e-4e6d-82a5-59ab02e97fa5" /># Ex.No:4
+# Ex.No:4
 # RECOGNITION OF A VALID VARIABLE WHICH STARTS WITH A LETTER FOLLOWED BY ANY NUMBER OF LETTERS OR DIGITS USING YACC
 ## Register Number:212224040298
 ## Date:10.3.2026
