@@ -1,4 +1,4 @@
-# Ex.No:4
+<img width="593" height="503" alt="image" src="https://github.com/user-attachments/assets/792f8f72-08a1-4dbb-9fad-d9a6f7ad53b5" /><img width="593" height="503" alt="image" src="https://github.com/user-attachments/assets/730f79cc-958e-4e6d-82a5-59ab02e97fa5" /># Ex.No:4
 # RECOGNITION OF A VALID VARIABLE WHICH STARTS WITH A LETTER FOLLOWED BY ANY NUMBER OF LETTERS OR DIGITS USING YACC
 ## Register Number:212224040298
 ## Date:10.3.2026
@@ -67,7 +67,7 @@ void yyerror(const char *s)
 
 ```
 ## Output
-<img width="870" height="481" alt="image" src="https://github.com/user-attachments/assets/6dbe3612-2fb9-4f9e-9e2f-03bc9c9bfe5b" />
+<img width="593" height="503" alt="image" src="https://github.com/user-attachments/assets/7ec2fa59-62b1-4c07-8bf2-e190c5ffd70c" />
 
 ## Result
 A YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits is executed successfully and the output is verified.
